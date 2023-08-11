@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rapple-dev-200649-authRole",
+      "UnauthRoleArn": "arn:aws:iam::452600523416:role/amplify-rapple-dev-200649-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::452600523416:role/amplify-rapple-dev-200649-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-rapple-dev-200649-deployment",
+      "UnauthRoleName": "amplify-rapple-dev-200649-unauthRole",
+      "StackName": "amplify-rapple-dev-200649",
+      "StackId": "arn:aws:cloudformation:us-east-1:452600523416:stack/amplify-rapple-dev-200649/5a7bc9f0-37e3-11ee-bc3b-0aae549c22a9",
+      "AmplifyAppId": "d2wt9lbc8ceqmu"
+    },
+    "categories": {
+      "function": {
+        "rapple81691bd1": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2wt9lbc8ceqmu",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
